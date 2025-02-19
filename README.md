@@ -18,6 +18,8 @@ This project analyzes global health trends using World Health Organization (WHO)
   - A choropleth map illustrating global life expectancy and population distribution.
   - A bar chart showing child mortality rates by region, revealing significant variations.
   - A line chart comparing trends in life expectancy, child mortality, and literacy rates across regions.
+
+![WHO](https://github.com/user-attachments/assets/c49700ed-500a-424a-bfcb-38403f19be39)
  
 ### Data Sources
 The primary dataset used for this analysis is the "WHO.csv" file, containing comprehensive global health statistics
